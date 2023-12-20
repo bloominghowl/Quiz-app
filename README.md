@@ -25,7 +25,7 @@ To run the TriviaTrove app locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/quizmaster-pro.git
+   https://github.com/bloominghowl/TriviaTrove_quiz-app.git
 
 2. Open the `index.html` file in your preferred web browser.
 
